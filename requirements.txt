@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+joblib
+fastapi
+uvicorn[standard]
+pydantic
+streamlit
+requests
+kagglehub
